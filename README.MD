@@ -48,14 +48,12 @@ De manera que puede ser completamente personalizado en un próximo desarrollo y 
   - [PDF - English](#)
 
 - [ ] Administradores - Manual de gestión administrativa global.
+  - Reservado a demo y vista previa en exposición (No público).
 
-  - [PDF - Español](#)
-  - [PDF - English](#)
+- [ ] Video promocional.
 
-  - [ ] Video promocional.
-
-    - [Drive - Español](https://drive.google.com/file/d/1yz8vGqlIQqDNNuryIE3QbWewy7y5we_K/view?usp=sharing)
-    - [Drive - English](#)
+  - [Drive - Español](#)
+  - [Drive - English](#)
 
 - [ ] Flujo de la plataforma.
 
@@ -70,3 +68,5 @@ Los recursos de la plataforma Skill Sync parten inicialmente de una plantilla de
 Los módulos fueron personalizados de acuerdo con su funcionalidad y uso, integrando el proveedor de servicios Supabase para el almacenamiento de datos, autenticación, mensajería y almacenamiento, además, el uso de frameworks de interfaces de usuario.
 
 <img src="https://cdn.skillsync.info/img/logo/logo.png" width="150" >
+
+
