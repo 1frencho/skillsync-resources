@@ -39,25 +39,30 @@ De manera que puede ser completamente personalizado en un próximo desarrollo y 
 
 - [ ] Candidatos - Manual de usuario.
 
-  - [PDF - Español](#)
-  - [PDF - English](#)
+  - [PDF - Español](https://cdn.skillsync.info/public-skillsync/Guides/ES/ES%20-%20Guia%20de%20Candidato.pdf)
+  - [PDF - English](https://cdn.skillsync.info/public-skillsync/Guides/EN/EN%20-%20Company%20Guide.pdf)
 
 - [ ] Empresas - Manual de gestión empresarial.
 
-  - [PDF - Español](#)
-  - [PDF - English](#)
+  - [PDF - Español](https://cdn.skillsync.info/public-skillsync/Guides/ES/ES%20-%20Gu%C3%ADa%20de%20compa%C3%B1%C3%ADas.pdf)
+  - [PDF - English](https://cdn.skillsync.info/public-skillsync/Guides/EN/EN%20-%20Candidate%20Guide.pdf)
 
 - [ ] Administradores - Manual de gestión administrativa global.
   - Reservado a demo y vista previa en exposición (No público).
 
 - [ ] Video promocional.
 
-  - [Drive - Español](#)
-  - [Drive - English](#)
+  - [Drive - Español](https://drive.google.com/file/d/1wezMkSFHB5iLPEuZ_g7rz_YUQ-p2Cnkt/view?usp=sharing)
+  - [Drive - English](https://drive.google.com/file/d/12fGhS5kZ6MWK7yypKfWxW9xPQqPlSDkM/view?usp=sharing)
 
 - [ ] Flujo de la plataforma.
 
-  - [PDF - English](#)
+  - [PDF - English](https://cdn.skillsync.info/public-skillsync/EN%20-%20Skill%20Sync%20-%20Flow%20Chart.pdf)
+
+- [ ] Material extra.
+
+  - [Brochure - English](https://cdn.skillsync.info/public-skillsync/EN%20-%20Skill%20Sync%20Brochure%20-%20Letter.pdf)
+  - [Tríptico - Español](https://cdn.skillsync.info/public-skillsync/ES%20-%20Skill%20Sync%20Brochure%20-%20Letter.pdf)
 
 ---
 
