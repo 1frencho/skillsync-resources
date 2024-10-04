@@ -70,7 +70,7 @@ De manera que puede ser completamente personalizado en un próximo desarrollo y 
 
 Los recursos de la plataforma Skill Sync parten inicialmente de una plantilla de Bootstrap, que fue adaptada al framework de React. Las funcionalidades implementadas se basan en el desarrollo propuesto en el proyecto.
 
-Los módulos fueron personalizados de acuerdo con su funcionalidad y uso, integrando el proveedor de servicios Supabase para el almacenamiento de datos, autenticación, mensajería y almacenamiento, además, el uso de frameworks de interfaces de usuario.
+Los módulos fueron personalizados de acuerdo con su funcionalidad y uso, integrando el proveedor de servicios Supabase para el almacenamiento de datos, autenticación, mensajería y almacenamiento, además, el uso de librerías de interfaces de usuario.
 
 <img src="https://cdn.skillsync.info/img/logo/logo.png" width="150" >
 
